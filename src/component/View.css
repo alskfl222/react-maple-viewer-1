@@ -24,7 +24,7 @@
 .view-image {
     margin-top: 45px;
     margin-bottom: 24px;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(222, 222, 222);
     border-radius: 25px;
 }
 
@@ -33,6 +33,7 @@
     top: -36px;
     width: 360px;
     object-fit: contain;
+    
 }
 
 .view-name {
