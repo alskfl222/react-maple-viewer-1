@@ -1,0 +1,28 @@
+header {
+    position: sticky;
+    top: 0;
+    width: 900px;
+    height: 148px;
+    background-color: teal;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    z-index: 10;
+}
+
+.logo > img {
+    width: 270px;
+    height: 100px;
+    object-fit: contain;
+    margin: 0 36px;
+}
+
+.dropdown {
+    margin: 0 36px;
+}
+
+.dropdown > select {
+    width: 180px;
+    height: 50px;
+    font-size: 20px;
+}

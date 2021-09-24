@@ -1,0 +1,13 @@
+footer {
+    position: sticky;
+    bottom: 0;
+    width: 900px;
+    height: 32px;
+    padding: 0 16px;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    color: rgb(39, 0, 83);
+    z-index: 10;
+}

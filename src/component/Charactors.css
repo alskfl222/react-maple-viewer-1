@@ -1,0 +1,10 @@
+.chars-container {
+    padding: 36px 51px; 
+    flex: 1
+}
+
+
+.char-line {
+    display: flex;
+    justify-content: space-between;
+}
